@@ -1,0 +1,23 @@
+What is Snap In - 
+	Snap-ins Chat uses a Live Agent deployment ID and button so customers can chat with your agents. The Live Agent details that you provide are used to generate the chat code snippet that you add to your web pages
+	
+Pre-Requisite to Set Up - 
+	Lightning Experience must be enabled to set up snap-ins
+	Service Cloud License
+	Live Agent License
+	Live Agent must be enabled in your org
+	A Live Agent chat button and a Live Agent deployment must be set up and available in your org
+	A Salesforce Community (preferable) or a Lightning Platform site must be set up on your org and available for guest user access
+	Ensure your browsers are supported for Snap-ins Chat. We support the same browsers as Lightning Communities. See Browser Support for Communities for more information.
+
+Snap IN Limitation - 
+	Visitors can’t chat with an agent if they’re using private browsing mode on iOS.
+	You can’t embed Snap-ins Chat into Lightning components. Use a Visualforce page, Community, or web property only.
+	Field-level validation rules aren’t supported with Snap-ins Chat.
+	When you host your Snap-ins Chat deployment on a Visualforce page, you must access the page using HTTPS. If you use HTTP, the snap-in doesn’t load.
+	
+English:                 https://cdn.rawgit.com/suddeb/Snap-InsChatTest/cbd361fd/Snap-Ins-QAT-English.html
+French:                  https://cdn.rawgit.com/suddeb/Snap-InsChatTest/cbd361fd/Snap-Ins-QAT-French.html
+
+User Vipul - https://cs41.salesforce.com/00555000002Tv4H?noredirect=1&isUserEntityOverride=1
+User Sudipta - https://cs41.salesforce.com/00555000000OJmh?noredirect=1&isUserEntityOverride=1
